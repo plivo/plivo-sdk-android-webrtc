@@ -1,0 +1,4 @@
+rootProject.name = "Plivo-webrtc-android-sdk"
+include ':app'
+include ':PlivoEndpoint'
+include ':testModule'
